@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "votacao": "PLP 93/23 - Novo Regime Fiscal - retomada de investimentos e programas sociais",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 2,
+    "votacao": "Veto 46/21 – Disseminação de fake News em campanhas eleitorais",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 3,
+    "votacao": "PLP 68/24 - Regulamentação da Reforma Tributária - Justiça tributária / Cashback para consumidor de baixa renda",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 4,
+    "votacao": "PL 490/2007 – Marco temporal de terras indígenas – direitos dos povos",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 5,
+    "votacao": "Veto 47/23 - Flexibilização de registo de agrotóxico (PL do Veneno)",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 6,
+    "votacao": "PEC 45/2019 - Reforma Tributária - 1º turno - Justiça tributária e fiscal",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 7,
+    "votacao": "PEC 45/19 - Reforma Tributária - 2º turno - Justiça tributária e fiscal",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 8,
+    "votacao": "PL 2.757/22 - Facilita a regularização a ocupação de terras irregulares na Amazônia legal",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 9,
+    "votacao": "Veto 30/23 - Marco temporal de terras indígenas - direitos dos povos",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 10,
+    "votacao": "PL 182/24 - Mercado de Carbono",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 11,
+    "votacao": "PL 9.543/18 - Nacionalização da tarifa social de água e esgoto",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 12,
+    "votacao": "PL 327/21 - Aceleração a transição energética – Inclusão social (Paten)",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 13,
+    "votacao": "PL 3.469/24 - Combate a desastres climáticos extremos",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 14,
+    "votacao": "PL 3.224/24 - Uso consciente de tecnologias digitais",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 15,
+    "votacao": "PL 4.497/24 - Legitimação da grilagem de terras",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 16,
+    "votacao": "PL 2.159/21 - Desmonte ambiental do País",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 17,
+    "votacao": "PEC 3/21 - Blindagem parlamentar - 1º turno",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 18,
+    "votacao": "PEC 3/21 - Blindagem parlamentar - 2º turno",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 19,
+    "votacao": "PL 3.899/12 - Política Nacional de Estímulo à Produção e ao Consumo Sustentáveis - Economia Circular",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 20,
+    "votacao": "PL 1.958/21 - Amplia cotas em concursos federais para pretos, pardos, indígenas e quilombolas",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 21,
+    "votacao": "PL 2.225/24 - ECA Ambiental para crianças e adolescentes",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 22,
+    "votacao": "Veto 29/25 - Desmonte ambiental do país",
+    "casa": "Câmara dos Deputados",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 23,
+    "votacao": "PLP 93/23 - Novo Regime Fiscal – retomada de investimentos e programas sociais",
+    "casa": "Senado Federal",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 24,
+    "votacao": "PEC 48/23 - Marco temporário de terras indígenas (1º turno)",
+    "casa": "Senado Federal",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 25,
+    "votacao": "PEC 48/23 - Marco temporário de terras indígenas (2º turno)",
+    "casa": "Senado Federal",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 26,
+    "votacao": "PL 2.903/23 - Marco temporal de terras indígenas - direitos dos povos",
+    "casa": "Senado Federal",
+    "posicao_ods": "Não"
+  },
+  {
+    "id": 27,
+    "votacao": "PEC 45/19 - Reforma Tributária - Justiça tributária e fiscal (1º turno)",
+    "casa": "Senado Federal",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 28,
+    "votacao": "PEC 45/19 - Reforma Tributária - Justiça tributária e fiscal (2º turno)",
+    "casa": "Senado Federal",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 29,
+    "votacao": "Veto 47/23 - Flexibilização de registo de agrotóxico (PL do Veneno)",
+    "casa": "Senado Federal",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 30,
+    "votacao": "Veto 29/25 - Desmonte ambiental do País",
+    "casa": "Senado Federal",
+    "posicao_ods": "Sim"
+  },
+  {
+    "id": 31,
+    "votacao": "Veto 30/23 - Marco temporal de terras indígenas - direitos dos povos",
+    "casa": "Senado Federal",
+    "posicao_ods": "Sim"
+  }
+]

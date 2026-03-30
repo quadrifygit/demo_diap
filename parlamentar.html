@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Parlamentar</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topo">
+    <div class="container">
+      <nav class="nav-site">
+        <a href="index.html" class="nav-brand">Quem Foi Quem no Congresso</a>
+        <div class="nav-links">
+          <a href="index.html" class="ativo">Parlamentares</a>
+          <a href="partidos.html">Partidos</a>
+          <a href="votacoes.html">Votações</a>
+          <a href="criterios.html">Critérios</a>
+        </div>
+      </nav>
+
+      <div class="topo-conteudo">
+        <a href="index.html" class="voltar-link">← Voltar para a lista</a>
+        <h1 class="topo-titulo-interno">Perfil do parlamentar</h1>
+        <p class="subtitulo">
+          Histórico individual nas votações selecionadas
+        </p>
+      </div>
+    </div>
+  </header>
+
+  <main class="container pagina-parlamentar">
+    <section id="perfilBox"></section>
+
+    <section class="secao-votos">
+      <div class="secao-votos-topo">
+        <div>
+          <h2>Histórico de votações</h2>
+          <p class="secao-explicacao">
+            Veja em quais votações houve alinhamento com a posição de referência.
+          </p>
+        </div>
+
+        <div class="filtros-votos">
+          <input
+            type="text"
+            id="buscaVotacao"
+            placeholder="Buscar votação..."
+            class="input-busca-votacao"
+          />
+
+          <div class="botoes-filtro">
+            <button class="btn-filtro ativo" data-filtro="todos">Todas</button>
+            <button class="btn-filtro" data-filtro="alinhado">Alinhadas</button>
+            <button class="btn-filtro" data-filtro="nao_alinhado">Não alinhadas</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="resumoListaVotos" class="resultado-info"></div>
+      <div id="listaVotos" class="lista-votos"></div>
+    </section>
+  </main>
+
+  <script src="js/parlamentar.js"></script>
+</body>
+</html>

@@ -1,0 +1,7082 @@
+[
+  {
+    "id": 1,
+    "nome": "AJ Albuquerque",
+    "partido": "PP",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.29,
+    "total_votacoes": 17,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 2,
+    "nome": "Abilio Brunini",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 12,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 3,
+    "nome": "Acácio Favacho",
+    "partido": "MDB",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.88,
+    "total_votacoes": 17,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 4,
+    "nome": "Adail Filho",
+    "partido": "REPUBLICANOS",
+    "uf": "AM",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.76,
+    "total_votacoes": 21,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 5,
+    "nome": "Adilson Barroso",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.53,
+    "total_votacoes": 19,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 6,
+    "nome": "Adolfo Viana",
+    "partido": "PSDB",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.38,
+    "total_votacoes": 16,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 7,
+    "nome": "Adriana Ventura",
+    "partido": "NOVO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.43,
+    "total_votacoes": 21,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 8,
+    "nome": "Adriano do Baldy",
+    "partido": "PP",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 9,
+    "nome": "Afonso Florence",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 10,
+    "nome": "Afonso Hamm",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 11,
+    "nome": "Afonso Motta",
+    "partido": "PDT",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.25,
+    "total_votacoes": 16,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 12,
+    "nome": "Aguinaldo Ribeiro",
+    "partido": "PP",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.25,
+    "total_votacoes": 16,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 13,
+    "nome": "Airton Faleiro",
+    "partido": "PT",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.52,
+    "total_votacoes": 21,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 14,
+    "nome": "Alan Rick",
+    "partido": "REPUBLICANOS",
+    "uf": "AC",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 15,
+    "nome": "Alberto Fraga",
+    "partido": "PL",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 16,
+    "nome": "Alberto Mourão",
+    "partido": "MDB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 6,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 17,
+    "nome": "Albuquerque",
+    "partido": "REPUBLICANOS",
+    "uf": "RR",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.79,
+    "total_votacoes": 19,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 18,
+    "nome": "Alceu Moreira",
+    "partido": "MDB",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 19,
+    "nome": "Alencar Santana",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.52,
+    "total_votacoes": 21,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 20,
+    "nome": "Alessandro Vieira",
+    "partido": "MDB",
+    "uf": "SE",
+    "casa": "Senado Federal",
+    "nota": 6.25,
+    "total_votacoes": 8,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 21,
+    "nome": "Alex Manente",
+    "partido": "CIDADANIA",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.62,
+    "total_votacoes": 13,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 22,
+    "nome": "Alex Santana",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.33,
+    "total_votacoes": 15,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 23,
+    "nome": "Alexandre Guimarães",
+    "partido": "MDB",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 24,
+    "nome": "Alexandre Leite",
+    "partido": "UNIAO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 10,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 25,
+    "nome": "Alexandre Lindenmeyer",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 26,
+    "nome": "Alfredinho",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.09,
+    "total_votacoes": 22,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 27,
+    "nome": "Alfredo Gaspar",
+    "partido": "UNIAO",
+    "uf": "AL",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.58,
+    "total_votacoes": 19,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 28,
+    "nome": "Alice Portugal",
+    "partido": "PCdoB",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 29,
+    "nome": "Aliel Machado",
+    "partido": "PV",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.24,
+    "total_votacoes": 17,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 30,
+    "nome": "Aline Gurgel",
+    "partido": "REPUBLICANOS",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 31,
+    "nome": "Allan Garcês",
+    "partido": "PP",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.0,
+    "total_votacoes": 10,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 32,
+    "nome": "Altineu Côrtes",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 15,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 33,
+    "nome": "Aluisio Mendes",
+    "partido": "REPUBLICANOS",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.71,
+    "total_votacoes": 17,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 34,
+    "nome": "Amanda Gentil",
+    "partido": "PP",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.15,
+    "total_votacoes": 13,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 35,
+    "nome": "Amaro Neto",
+    "partido": "REPUBLICANOS",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.45,
+    "total_votacoes": 22,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 36,
+    "nome": "Amom Mandel",
+    "partido": "CIDADANIA",
+    "uf": "AM",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.0,
+    "total_votacoes": 15,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 37,
+    "nome": "Amália Barros",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 38,
+    "nome": "Ana Paula Leão",
+    "partido": "PP",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.35,
+    "total_votacoes": 17,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 39,
+    "nome": "Ana Paula Lima",
+    "partido": "PT",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 40,
+    "nome": "Ana Paula Lobato",
+    "partido": "PSB",
+    "uf": "MA",
+    "casa": "Senado Federal",
+    "nota": 6.67,
+    "total_votacoes": 9,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 41,
+    "nome": "Ana Pimentel",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 42,
+    "nome": "Andreia Siqueira",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.88,
+    "total_votacoes": 17,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 43,
+    "nome": "André Abdon",
+    "partido": "PP",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.0,
+    "total_votacoes": 5,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 44,
+    "nome": "André Fernandes",
+    "partido": "PL",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 45,
+    "nome": "André Ferreira",
+    "partido": "PL",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.18,
+    "total_votacoes": 17,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 46,
+    "nome": "André Figueiredo",
+    "partido": "PDT",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.24,
+    "total_votacoes": 17,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 47,
+    "nome": "André Fufuca",
+    "partido": "PP",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 4,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 48,
+    "nome": "André Janones",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 15,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 49,
+    "nome": "Angelo Coronel",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 50,
+    "nome": "Antonio Andrade",
+    "partido": "REPUBLICANOS",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.24,
+    "total_votacoes": 21,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 51,
+    "nome": "Antonio Brito",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 12,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 52,
+    "nome": "Antonio Carlos Rodrigues",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.26,
+    "total_votacoes": 19,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 53,
+    "nome": "Antônia Lúcia",
+    "partido": "REPUBLICANOS",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.67,
+    "total_votacoes": 15,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 54,
+    "nome": "Antônio Doido",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.74,
+    "total_votacoes": 19,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 55,
+    "nome": "Any Ortiz",
+    "partido": "CIDADANIA",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.05,
+    "total_votacoes": 19,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 56,
+    "nome": "Arlindo Chinaglia",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.55,
+    "total_votacoes": 22,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 57,
+    "nome": "Arnaldo Jardim",
+    "partido": "CIDADANIA",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.29,
+    "total_votacoes": 17,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 58,
+    "nome": "Arthur Lira",
+    "partido": "PP",
+    "uf": "AL",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 12,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 59,
+    "nome": "Arthur Oliveira Maia",
+    "partido": "UNIAO",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 60,
+    "nome": "Astronauta Marcos Pontes",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 61,
+    "nome": "Augusta Brito",
+    "partido": "PT",
+    "uf": "CE",
+    "casa": "Senado Federal",
+    "nota": 7.5,
+    "total_votacoes": 8,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 62,
+    "nome": "Augusto Coutinho",
+    "partido": "REPUBLICANOS",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.44,
+    "total_votacoes": 18,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 63,
+    "nome": "Augusto Puppio",
+    "partido": "MDB",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.14,
+    "total_votacoes": 14,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 64,
+    "nome": "Aureo Ribeiro",
+    "partido": "SOLIDARIEDADE",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 18,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 65,
+    "nome": "Aécio Neves",
+    "partido": "PSDB",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.92,
+    "total_votacoes": 13,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 66,
+    "nome": "Bacelar",
+    "partido": "PV",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.1,
+    "total_votacoes": 21,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 67,
+    "nome": "Baleia Rossi",
+    "partido": "MDB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.0,
+    "total_votacoes": 15,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 68,
+    "nome": "Bandeira de Mello",
+    "partido": "PSB",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 69,
+    "nome": "Bebeto",
+    "partido": "PP",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.45,
+    "total_votacoes": 22,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 70,
+    "nome": "Benedita da Silva",
+    "partido": "PT",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 71,
+    "nome": "Benes Leocádio",
+    "partido": "UNIAO",
+    "uf": "RN",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.24,
+    "total_votacoes": 21,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 72,
+    "nome": "Beto Faro",
+    "partido": "PT",
+    "uf": "PA",
+    "casa": "Senado Federal",
+    "nota": 8.89,
+    "total_votacoes": 9,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 73,
+    "nome": "Beto Pereira",
+    "partido": "PSDB",
+    "uf": "MS",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.44,
+    "total_votacoes": 18,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 74,
+    "nome": "Beto Preto",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 75,
+    "nome": "Beto Richa",
+    "partido": "PSDB",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 76,
+    "nome": "Bia Kicis",
+    "partido": "PL",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 77,
+    "nome": "Bibo Nunes",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 78,
+    "nome": "Bohn Gass",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 79,
+    "nome": "Bosco Costa",
+    "partido": "PL",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 80,
+    "nome": "Bruno Farias",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 81,
+    "nome": "Bruno Ganem",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.14,
+    "total_votacoes": 21,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 82,
+    "nome": "Cabo Gilberto Silva",
+    "partido": "PL",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 83,
+    "nome": "Caio Vianna",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.06,
+    "total_votacoes": 17,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 84,
+    "nome": "Camila Jara",
+    "partido": "PT",
+    "uf": "MS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 85,
+    "nome": "Capitão Alberto Neto",
+    "partido": "PL",
+    "uf": "AM",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 86,
+    "nome": "Capitão Alden",
+    "partido": "PL",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 87,
+    "nome": "Capitão Augusto",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 88,
+    "nome": "Capitão Samuel",
+    "partido": "PP",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 89,
+    "nome": "Carla Ayres",
+    "partido": "PT",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 90,
+    "nome": "Carla Dickson",
+    "partido": "UNIAO",
+    "uf": "RN",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.11,
+    "total_votacoes": 9,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 91,
+    "nome": "Carla Zambelli",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 12,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 92,
+    "nome": "Carlos Chiodini",
+    "partido": "MDB",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.44,
+    "total_votacoes": 9,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 93,
+    "nome": "Carlos Fávaro",
+    "partido": "PSD",
+    "uf": "MT",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 94,
+    "nome": "Carlos Gomes",
+    "partido": "REPUBLICANOS",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 4,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 95,
+    "nome": "Carlos Henrique Gaguim",
+    "partido": "UNIAO",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.74,
+    "total_votacoes": 19,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 96,
+    "nome": "Carlos Jordy",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 97,
+    "nome": "Carlos Portinho",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 98,
+    "nome": "Carlos Sampaio",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 99,
+    "nome": "Carlos Veras",
+    "partido": "PT",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.55,
+    "total_votacoes": 22,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 100,
+    "nome": "Carlos Viana",
+    "partido": "PODEMOS",
+    "uf": "MG",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 101,
+    "nome": "Carlos Zarattini",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 22
+  },
+  {
+    "id": 102,
+    "nome": "Carmen Zanotto",
+    "partido": "CIDADANIA",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 103,
+    "nome": "Carol Dartora",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 104,
+    "nome": "Caroline de Toni",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 105,
+    "nome": "Castro Neto",
+    "partido": "PSD",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.06,
+    "total_votacoes": 17,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 106,
+    "nome": "Celso Russomanno",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.79,
+    "total_votacoes": 19,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 107,
+    "nome": "Celso Sabino",
+    "partido": "UNIAO",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 4,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 108,
+    "nome": "Cezinha de Madureira",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 109,
+    "nome": "Charles Fernandes",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.84,
+    "total_votacoes": 19,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 110,
+    "nome": "Chico Alencar",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.64,
+    "total_votacoes": 22,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 111,
+    "nome": "Chico Rodrigues",
+    "partido": "PSB",
+    "uf": "RR",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 112,
+    "nome": "Chiquinho Brazão",
+    "partido": "SPART",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.33,
+    "total_votacoes": 6,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 113,
+    "nome": "Chris Tonietto",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 114,
+    "nome": "Cid Gomes",
+    "partido": "PSB",
+    "uf": "CE",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 6,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 115,
+    "nome": "Ciro Nogueira",
+    "partido": "PP",
+    "uf": "PI",
+    "casa": "Senado Federal",
+    "nota": 2.22,
+    "total_votacoes": 9,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 116,
+    "nome": "Clarissa Tércio",
+    "partido": "PP",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 117,
+    "nome": "Claudio Cajado",
+    "partido": "PP",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.88,
+    "total_votacoes": 17,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 118,
+    "nome": "Cleber Verde",
+    "partido": "MDB",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 21,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 119,
+    "nome": "Cleitinho",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 8,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 120,
+    "nome": "Clodoaldo Magalhães",
+    "partido": "PV",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 121,
+    "nome": "Cobalchini",
+    "partido": "MDB",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 122,
+    "nome": "Confúcio Moura",
+    "partido": "MDB",
+    "uf": "RO",
+    "casa": "Senado Federal",
+    "nota": 7.78,
+    "total_votacoes": 9,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 123,
+    "nome": "Coronel Armando",
+    "partido": "PP",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 4,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 124,
+    "nome": "Coronel Assis",
+    "partido": "UNIAO",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.95,
+    "total_votacoes": 21,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 125,
+    "nome": "Coronel Chrisóstomo",
+    "partido": "PL",
+    "uf": "RO",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 126,
+    "nome": "Coronel Fernanda",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.59,
+    "total_votacoes": 17,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 127,
+    "nome": "Coronel Meira",
+    "partido": "PL",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 128,
+    "nome": "Coronel Tadeu",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 129,
+    "nome": "Coronel Telhada",
+    "partido": "PP",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 11,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 130,
+    "nome": "Coronel Ulysses",
+    "partido": "UNIAO",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.43,
+    "total_votacoes": 21,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 131,
+    "nome": "Covatti Filho",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.58,
+    "total_votacoes": 19,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 132,
+    "nome": "Cristiane Lopes",
+    "partido": "UNIAO",
+    "uf": "RO",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.64,
+    "total_votacoes": 22,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 133,
+    "nome": "Célia Xakriabá",
+    "partido": "PSOL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.42,
+    "total_votacoes": 19,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 134,
+    "nome": "Célio Silveira",
+    "partido": "MDB",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.26,
+    "total_votacoes": 19,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 135,
+    "nome": "Célio Studart",
+    "partido": "PSD",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.33,
+    "total_votacoes": 18,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 136,
+    "nome": "Da Vitoria",
+    "partido": "PP",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.71,
+    "total_votacoes": 21,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 137,
+    "nome": "Dagoberto Nogueira",
+    "partido": "PSDB",
+    "uf": "MS",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.24,
+    "total_votacoes": 17,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 138,
+    "nome": "Daiana Santos",
+    "partido": "PCdoB",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 139,
+    "nome": "Dal Barreto",
+    "partido": "UNIAO",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.67,
+    "total_votacoes": 15,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 140,
+    "nome": "Damares Alves",
+    "partido": "REPUBLICANOS",
+    "uf": "DF",
+    "casa": "Senado Federal",
+    "nota": 1.11,
+    "total_votacoes": 9,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 141,
+    "nome": "Damião Feliciano",
+    "partido": "UNIAO",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.71,
+    "total_votacoes": 14,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 142,
+    "nome": "Dandara",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 143,
+    "nome": "Dani Cunha",
+    "partido": "UNIAO",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 144,
+    "nome": "Daniel Agrobom",
+    "partido": "PL",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.27,
+    "total_votacoes": 22,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 145,
+    "nome": "Daniel Almeida",
+    "partido": "PCdoB",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 146,
+    "nome": "Daniel Barbosa",
+    "partido": "PP",
+    "uf": "AL",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.75,
+    "total_votacoes": 16,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 147,
+    "nome": "Daniel Freitas",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.48,
+    "total_votacoes": 21,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 148,
+    "nome": "Daniel José",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 149,
+    "nome": "Daniel Trzeciak",
+    "partido": "PSDB",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.76,
+    "total_votacoes": 21,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 150,
+    "nome": "Daniela Reinehr",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.53,
+    "total_votacoes": 19,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 151,
+    "nome": "Daniela do Waguinho",
+    "partido": "UNIAO",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.24,
+    "total_votacoes": 17,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 152,
+    "nome": "Daniella Ribeiro",
+    "partido": "PP",
+    "uf": "PB",
+    "casa": "Senado Federal",
+    "nota": 3.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 153,
+    "nome": "Danilo Forte",
+    "partido": "UNIAO",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.88,
+    "total_votacoes": 17,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 154,
+    "nome": "Danrlei de Deus Hinterholz",
+    "partido": "PSD",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.22,
+    "total_votacoes": 9,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 155,
+    "nome": "Darci de Matos",
+    "partido": "PSD",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.29,
+    "total_votacoes": 7,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 156,
+    "nome": "Davi Alcolumbre",
+    "partido": "UNIAO",
+    "uf": "AP",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 157,
+    "nome": "David Soares",
+    "partido": "UNIAO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.38,
+    "total_votacoes": 13,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 158,
+    "nome": "Dayany Bittencourt",
+    "partido": "UNIAO",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.73,
+    "total_votacoes": 22,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 159,
+    "nome": "Defensor Stélio Dener",
+    "partido": "REPUBLICANOS",
+    "uf": "RR",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 160,
+    "nome": "Delegada Adriana Accorsi",
+    "partido": "PT",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 161,
+    "nome": "Delegada Ione",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.74,
+    "total_votacoes": 19,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 162,
+    "nome": "Delegada Katarina",
+    "partido": "PSD",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 163,
+    "nome": "Delegado Bruno Lima",
+    "partido": "PP",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.0,
+    "total_votacoes": 10,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 164,
+    "nome": "Delegado Caveira",
+    "partido": "PL",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 165,
+    "nome": "Delegado Fabio Costa",
+    "partido": "PP",
+    "uf": "AL",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.95,
+    "total_votacoes": 21,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 166,
+    "nome": "Delegado Marcelo Freitas",
+    "partido": "UNIAO",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 167,
+    "nome": "Delegado Matheus Laiola",
+    "partido": "UNIAO",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.14,
+    "total_votacoes": 21,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 168,
+    "nome": "Delegado Palumbo",
+    "partido": "MDB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.91,
+    "total_votacoes": 22,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 169,
+    "nome": "Delegado Paulo Bilynskyj",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 170,
+    "nome": "Delegado Ramagem",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 171,
+    "nome": "Delegado da Cunha",
+    "partido": "PP",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.71,
+    "total_votacoes": 17,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 172,
+    "nome": "Delegado Éder Mauro",
+    "partido": "PL",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 173,
+    "nome": "Deltan Dallagnol",
+    "partido": "PODE",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 174,
+    "nome": "Denise Pessôa",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 175,
+    "nome": "Detinha",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.08,
+    "total_votacoes": 13,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 176,
+    "nome": "Diego Andrade",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.67,
+    "total_votacoes": 15,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 177,
+    "nome": "Diego Coronel",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 178,
+    "nome": "Diego Garcia",
+    "partido": "REPUBLICANOS",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 179,
+    "nome": "Dilceu Sperafico",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.81,
+    "total_votacoes": 21,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 180,
+    "nome": "Dilvanda Faro",
+    "partido": "PT",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.09,
+    "total_votacoes": 22,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 181,
+    "nome": "Dimas Fabiano",
+    "partido": "PP",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.76,
+    "total_votacoes": 21,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 182,
+    "nome": "Dimas Gadelha",
+    "partido": "PT",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 183,
+    "nome": "Domingos Neto",
+    "partido": "PSD",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.0,
+    "total_votacoes": 10,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 184,
+    "nome": "Domingos Sávio",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 185,
+    "nome": "Dorinaldo Malafaia",
+    "partido": "PDT",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.47,
+    "total_votacoes": 19,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 186,
+    "nome": "Douglas Viegas",
+    "partido": "UNIAO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.86,
+    "total_votacoes": 14,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 187,
+    "nome": "Doutor Luizinho",
+    "partido": "PP",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.64,
+    "total_votacoes": 11,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 188,
+    "nome": "Dr Fabio Rueda",
+    "partido": "UNIAO",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 189,
+    "nome": "Dr Flávio",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 3,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 190,
+    "nome": "Dr. Allan Garcês",
+    "partido": "PP",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 191,
+    "nome": "Dr. Benjamim",
+    "partido": "UNIAO",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 9,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 192,
+    "nome": "Dr. Daniel Soranz",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 193,
+    "nome": "Dr. Fernando Máximo",
+    "partido": "UNIAO",
+    "uf": "RO",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.48,
+    "total_votacoes": 21,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 194,
+    "nome": "Dr. Francisco",
+    "partido": "PT",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 195,
+    "nome": "Dr. Frederico",
+    "partido": "PRD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 196,
+    "nome": "Dr. Gonçalo",
+    "partido": "PODE",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 197,
+    "nome": "Dr. Hiran",
+    "partido": "PP",
+    "uf": "RR",
+    "casa": "Senado Federal",
+    "nota": 1.11,
+    "total_votacoes": 9,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 198,
+    "nome": "Dr. Ismael Alexandrino",
+    "partido": "PSD",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.71,
+    "total_votacoes": 17,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 199,
+    "nome": "Dr. Jaziel",
+    "partido": "PL",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 200,
+    "nome": "Dr. Luiz Ovando",
+    "partido": "PP",
+    "uf": "MS",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 201,
+    "nome": "Dr. Remy Soares",
+    "partido": "PP",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 3,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 202,
+    "nome": "Dr. Victor Linhalis",
+    "partido": "PODE",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.56,
+    "total_votacoes": 18,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 203,
+    "nome": "Dr. Zacharias Calil",
+    "partido": "UNIAO",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 204,
+    "nome": "Dra. Alessandra Haber",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.38,
+    "total_votacoes": 16,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 205,
+    "nome": "Dra. Eudócia",
+    "partido": "PL",
+    "uf": "AL",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 206,
+    "nome": "Duarte Gonçalves Jr",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 3,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 207,
+    "nome": "Duarte Gonçalves jr",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 208,
+    "nome": "Duarte Jr.",
+    "partido": "PSB",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.57,
+    "total_votacoes": 21,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 209,
+    "nome": "Duda Ramos",
+    "partido": "MDB",
+    "uf": "RR",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.25,
+    "total_votacoes": 16,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 210,
+    "nome": "Duda Salabert",
+    "partido": "PDT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.44,
+    "total_votacoes": 18,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 211,
+    "nome": "Délio Pinheiro",
+    "partido": "PDT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 212,
+    "nome": "Eduardo Bismarck",
+    "partido": "PDT",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.18,
+    "total_votacoes": 11,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 213,
+    "nome": "Eduardo Bolsonaro",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 12,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 214,
+    "nome": "Eduardo Braga",
+    "partido": "MDB",
+    "uf": "AM",
+    "casa": "Senado Federal",
+    "nota": 5.56,
+    "total_votacoes": 9,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 215,
+    "nome": "Eduardo Girão",
+    "partido": "NOVO",
+    "uf": "CE",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 216,
+    "nome": "Eduardo Gomes",
+    "partido": "PL",
+    "uf": "TO",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 217,
+    "nome": "Eduardo Velloso",
+    "partido": "UNIAO",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.12,
+    "total_votacoes": 16,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 218,
+    "nome": "Eduardo da Fonte",
+    "partido": "PP",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.26,
+    "total_votacoes": 19,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 219,
+    "nome": "Efraim Filho",
+    "partido": "UNIAO",
+    "uf": "PB",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 220,
+    "nome": "Elcione Barbalho",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 8,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 221,
+    "nome": "Eli Borges",
+    "partido": "PL",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.05,
+    "total_votacoes": 19,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 222,
+    "nome": "Eliane Braz",
+    "partido": "PSD",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 223,
+    "nome": "Eliza Virgínia",
+    "partido": "PP",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 224,
+    "nome": "Eliziane Gama",
+    "partido": "PSD",
+    "uf": "MA",
+    "casa": "Senado Federal",
+    "nota": 7.78,
+    "total_votacoes": 9,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 225,
+    "nome": "Elmano Férrer",
+    "partido": "PP",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 226,
+    "nome": "Elmar Nascimento",
+    "partido": "UNIAO",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.45,
+    "total_votacoes": 11,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 227,
+    "nome": "Ely Santos",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.26,
+    "total_votacoes": 19,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 228,
+    "nome": "Emanuel Pinheiro Neto",
+    "partido": "MDB",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.24,
+    "total_votacoes": 17,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 229,
+    "nome": "Emidinho Madeira",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 13,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 230,
+    "nome": "Enfermeira Ana Paula",
+    "partido": "PODE",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.25,
+    "total_votacoes": 8,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 231,
+    "nome": "Enfermeira Rejane",
+    "partido": "PCdoB",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 7,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 232,
+    "nome": "Eriberto Medeiros",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.24,
+    "total_votacoes": 17,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 233,
+    "nome": "Erika Hilton",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.75,
+    "total_votacoes": 16,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 234,
+    "nome": "Erika Kokay",
+    "partido": "PT",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 22
+  },
+  {
+    "id": 235,
+    "nome": "Eros Biondini",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.48,
+    "total_votacoes": 21,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 236,
+    "nome": "Esperidião Amin",
+    "partido": "PP",
+    "uf": "SC",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 237,
+    "nome": "Euclydes Pettersen",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.85,
+    "total_votacoes": 13,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 238,
+    "nome": "Eunício Oliveira",
+    "partido": "MDB",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.86,
+    "total_votacoes": 14,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 239,
+    "nome": "Evair Vieira de Melo",
+    "partido": "PP",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 240,
+    "nome": "Fabiano Cazeca",
+    "partido": "PRD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 241,
+    "nome": "Fabiano Contarato",
+    "partido": "PT",
+    "uf": "ES",
+    "casa": "Senado Federal",
+    "nota": 8.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 242,
+    "nome": "Fabio Garcia",
+    "partido": "UNIAO",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 4,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 243,
+    "nome": "Fabio Reis",
+    "partido": "PSD",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.14,
+    "total_votacoes": 7,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 244,
+    "nome": "Fabio Schiochet",
+    "partido": "UNIAO",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.86,
+    "total_votacoes": 21,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 245,
+    "nome": "Fatima Pelaes",
+    "partido": "REPUBLICANOS",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 246,
+    "nome": "Fausto Jr.",
+    "partido": "UNIAO",
+    "uf": "AM",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.17,
+    "total_votacoes": 12,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 247,
+    "nome": "Fausto Pinato",
+    "partido": "PP",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.29,
+    "total_votacoes": 17,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 248,
+    "nome": "Felipe Becari",
+    "partido": "UNIAO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.86,
+    "total_votacoes": 14,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 249,
+    "nome": "Felipe Carreras",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.75,
+    "total_votacoes": 16,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 250,
+    "nome": "Felipe Francischini",
+    "partido": "UNIAO",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.11,
+    "total_votacoes": 19,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 251,
+    "nome": "Felipe Saliba",
+    "partido": "PRD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 252,
+    "nome": "Fernanda Melchionna",
+    "partido": "PSOL",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.62,
+    "total_votacoes": 21,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 253,
+    "nome": "Fernanda Pessoa",
+    "partido": "UNIAO",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.26,
+    "total_votacoes": 19,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 254,
+    "nome": "Fernando Coelho Filho",
+    "partido": "UNIAO",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 255,
+    "nome": "Fernando Dueire",
+    "partido": "MDB",
+    "uf": "PE",
+    "casa": "Senado Federal",
+    "nota": 3.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 256,
+    "nome": "Fernando Farias",
+    "partido": "MDB",
+    "uf": "AL",
+    "casa": "Senado Federal",
+    "nota": 3.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 257,
+    "nome": "Fernando Mineiro",
+    "partido": "PT",
+    "uf": "RN",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 258,
+    "nome": "Fernando Monteiro",
+    "partido": "PSD",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.71,
+    "total_votacoes": 14,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 259,
+    "nome": "Fernando Rodolfo",
+    "partido": "PL",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.58,
+    "total_votacoes": 19,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 260,
+    "nome": "Filipe Barros",
+    "partido": "PL",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 17,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 261,
+    "nome": "Filipe Martins",
+    "partido": "PL",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.48,
+    "total_votacoes": 21,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 262,
+    "nome": "Flavinha",
+    "partido": "MDB",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 3,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 263,
+    "nome": "Florentino Neto",
+    "partido": "PT",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.82,
+    "total_votacoes": 17,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 264,
+    "nome": "Flávia Morais",
+    "partido": "PDT",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 265,
+    "nome": "Flávio Arns",
+    "partido": "PSB",
+    "uf": "PR",
+    "casa": "Senado Federal",
+    "nota": 4.44,
+    "total_votacoes": 9,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 266,
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 267,
+    "nome": "Flávio Nogueira",
+    "partido": "PT",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 268,
+    "nome": "Franciane Bayer",
+    "partido": "REPUBLICANOS",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.78,
+    "total_votacoes": 18,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 269,
+    "nome": "Fred Costa",
+    "partido": "PRD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.83,
+    "total_votacoes": 12,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 270,
+    "nome": "Fred Linhares",
+    "partido": "REPUBLICANOS",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.89,
+    "total_votacoes": 18,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 271,
+    "nome": "Fábio Henrique",
+    "partido": "UNIAO",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 272,
+    "nome": "Fábio Macedo",
+    "partido": "PODE",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.32,
+    "total_votacoes": 19,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 273,
+    "nome": "Fábio Teruel",
+    "partido": "MDB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.84,
+    "total_votacoes": 19,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 274,
+    "nome": "Félix Mendonça Júnior",
+    "partido": "PDT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 275,
+    "nome": "Gabriel Mota",
+    "partido": "REPUBLICANOS",
+    "uf": "RR",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 276,
+    "nome": "Gabriel Nunes",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.19,
+    "total_votacoes": 21,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 277,
+    "nome": "General Girão",
+    "partido": "PL",
+    "uf": "RN",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.48,
+    "total_votacoes": 21,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 278,
+    "nome": "General Pazuello",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.48,
+    "total_votacoes": 21,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 279,
+    "nome": "Geovania de Sá",
+    "partido": "PSDB",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.59,
+    "total_votacoes": 17,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 280,
+    "nome": "Geovania de sá",
+    "partido": "PSDB",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 281,
+    "nome": "Geraldo Mendes",
+    "partido": "UNIAO",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.71,
+    "total_votacoes": 17,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 282,
+    "nome": "Geraldo Resende",
+    "partido": "PSDB",
+    "uf": "MS",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 283,
+    "nome": "Gerlen Diniz",
+    "partido": "PP",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.54,
+    "total_votacoes": 13,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 284,
+    "nome": "Gervásio Maia",
+    "partido": "PSB",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.05,
+    "total_votacoes": 21,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 285,
+    "nome": "Giacobo",
+    "partido": "PL",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.0,
+    "total_votacoes": 15,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 286,
+    "nome": "Gilberto Abramo",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 287,
+    "nome": "Gilberto Nascimento",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.64,
+    "total_votacoes": 11,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 288,
+    "nome": "Gilson Daniel",
+    "partido": "PODE",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.57,
+    "total_votacoes": 21,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 289,
+    "nome": "Gilson Marques",
+    "partido": "NOVO",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.95,
+    "total_votacoes": 21,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 290,
+    "nome": "Gilvan Maximo",
+    "partido": "REPUBLICANOS",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.62,
+    "total_votacoes": 13,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 291,
+    "nome": "Gilvan da Federal",
+    "partido": "PL",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 292,
+    "nome": "Giordano",
+    "partido": "PODEMOS",
+    "uf": "SP",
+    "casa": "Senado Federal",
+    "nota": 3.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 293,
+    "nome": "Giovani Cherini",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.45,
+    "total_votacoes": 22,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 294,
+    "nome": "Gisela Simona",
+    "partido": "UNIAO",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.38,
+    "total_votacoes": 16,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 295,
+    "nome": "Glauber Braga",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.62,
+    "total_votacoes": 21,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 296,
+    "nome": "Glaustin da Fokus",
+    "partido": "PODE",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.83,
+    "total_votacoes": 12,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 297,
+    "nome": "Gleisi Hoffmann",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 10,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 298,
+    "nome": "Gláucia Santiago",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 299,
+    "nome": "Greyce Elias",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 300,
+    "nome": "Guilherme Boulos",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.95,
+    "total_votacoes": 19,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 301,
+    "nome": "Guilherme Uchoa",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 302,
+    "nome": "Gustavo Gayer",
+    "partido": "PL",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 303,
+    "nome": "Gustinho Ribeiro",
+    "partido": "REPUBLICANOS",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.71,
+    "total_votacoes": 17,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 304,
+    "nome": "Gutemberg Reis",
+    "partido": "MDB",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.79,
+    "total_votacoes": 19,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 305,
+    "nome": "Hamilton Mourão",
+    "partido": "REPUBLICANOS",
+    "uf": "RS",
+    "casa": "Senado Federal",
+    "nota": 1.11,
+    "total_votacoes": 9,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 306,
+    "nome": "Heitor Schuch",
+    "partido": "PSB",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.69,
+    "total_votacoes": 13,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 307,
+    "nome": "Helder Salomão",
+    "partido": "PT",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 308,
+    "nome": "Helena Lima",
+    "partido": "MDB",
+    "uf": "RR",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.15,
+    "total_votacoes": 13,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 309,
+    "nome": "Helio Lopes",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 310,
+    "nome": "Henderson Pinto",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.24,
+    "total_votacoes": 21,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 311,
+    "nome": "Henrique Júnior",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 4,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 312,
+    "nome": "Hercílio Coelho Diniz",
+    "partido": "MDB",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.62,
+    "total_votacoes": 16,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 313,
+    "nome": "Hildo Rocha",
+    "partido": "MDB",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.45,
+    "total_votacoes": 11,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 314,
+    "nome": "Hildo do Candango",
+    "partido": "REPUBLICANOS",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 3,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 315,
+    "nome": "Hugo Leal",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.15,
+    "total_votacoes": 13,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 316,
+    "nome": "Hugo Motta",
+    "partido": "REPUBLICANOS",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.89,
+    "total_votacoes": 18,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 317,
+    "nome": "Humberto Costa",
+    "partido": "PT",
+    "uf": "PE",
+    "casa": "Senado Federal",
+    "nota": 7.5,
+    "total_votacoes": 8,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 318,
+    "nome": "Hélio Leite",
+    "partido": "UNIAO",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 319,
+    "nome": "Icaro de Valmir",
+    "partido": "PL",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.29,
+    "total_votacoes": 17,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 320,
+    "nome": "Idilvan Alencar",
+    "partido": "PDT",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.46,
+    "total_votacoes": 13,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 321,
+    "nome": "Igor Timo",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.32,
+    "total_votacoes": 19,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 322,
+    "nome": "Irajá",
+    "partido": "PSD",
+    "uf": "TO",
+    "casa": "Senado Federal",
+    "nota": 1.11,
+    "total_votacoes": 9,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 323,
+    "nome": "Ireneu Orth",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 324,
+    "nome": "Ismael",
+    "partido": "PSD",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 18,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 325,
+    "nome": "Isnaldo Bulhões Jr.",
+    "partido": "MDB",
+    "uf": "AL",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.36,
+    "total_votacoes": 11,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 326,
+    "nome": "Ivan Valente",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.64,
+    "total_votacoes": 22,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 327,
+    "nome": "Ivete da Silveira",
+    "partido": "MDB",
+    "uf": "SC",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 328,
+    "nome": "Ivoneide Caetano",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 329,
+    "nome": "Iza Arruda",
+    "partido": "MDB",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.29,
+    "total_votacoes": 14,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 330,
+    "nome": "Izalci Lucas",
+    "partido": "PL",
+    "uf": "DF",
+    "casa": "Senado Federal",
+    "nota": 1.11,
+    "total_votacoes": 9,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 331,
+    "nome": "Jack Rocha",
+    "partido": "PT",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 332,
+    "nome": "Jader Barbalho",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Senado Federal",
+    "nota": 4.29,
+    "total_votacoes": 7,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 333,
+    "nome": "Jadyel Alencar",
+    "partido": "REPUBLICANOS",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.25,
+    "total_votacoes": 16,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 334,
+    "nome": "Jaime Bagattoli",
+    "partido": "PL",
+    "uf": "RO",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 8,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 335,
+    "nome": "Janaína Farias",
+    "partido": "PT",
+    "uf": "CE",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 336,
+    "nome": "Jandira Feghali",
+    "partido": "PCdoB",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 22
+  },
+  {
+    "id": 337,
+    "nome": "Jaques Wagner",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Senado Federal",
+    "nota": 8.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 338,
+    "nome": "Jayme Campos",
+    "partido": "UNIAO",
+    "uf": "MT",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 339,
+    "nome": "Jeferson Rodrigues",
+    "partido": "REPUBLICANOS",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.67,
+    "total_votacoes": 15,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 340,
+    "nome": "Jefferson Campos",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.53,
+    "total_votacoes": 19,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 341,
+    "nome": "Jilmar Tatto",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.82,
+    "total_votacoes": 17,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 342,
+    "nome": "Joaquim Passarinho",
+    "partido": "PL",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 343,
+    "nome": "Jonas Donizette",
+    "partido": "PSB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 344,
+    "nome": "Jones Moura",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 3,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 345,
+    "nome": "Jorge Braz",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.45,
+    "total_votacoes": 22,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 346,
+    "nome": "Jorge Goetten",
+    "partido": "REPUBLICANOS",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.12,
+    "total_votacoes": 17,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 347,
+    "nome": "Jorge Kajuru",
+    "partido": "PSB",
+    "uf": "GO",
+    "casa": "Senado Federal",
+    "nota": 4.44,
+    "total_votacoes": 9,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 348,
+    "nome": "Jorge Seif",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 349,
+    "nome": "Jorge Solla",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 350,
+    "nome": "Joseildo Ramos",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 351,
+    "nome": "Josenildo",
+    "partido": "PDT",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.62,
+    "total_votacoes": 21,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 352,
+    "nome": "Josias Gomes",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 353,
+    "nome": "Josimar Maranhãozinho",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.08,
+    "total_votacoes": 13,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 354,
+    "nome": "Josivaldo JP",
+    "partido": "PSD",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 355,
+    "nome": "José Airton Félix Cirilo",
+    "partido": "PT",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 356,
+    "nome": "José Guimarães",
+    "partido": "PT",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.47,
+    "total_votacoes": 19,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 357,
+    "nome": "José Lacerda",
+    "partido": "PSD",
+    "uf": "MT",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 3,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 358,
+    "nome": "José Medeiros",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 359,
+    "nome": "José Nelto",
+    "partido": "UNIAO",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.29,
+    "total_votacoes": 17,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 360,
+    "nome": "José Priante",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 12,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 361,
+    "nome": "José Rocha",
+    "partido": "UNIAO",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.62,
+    "total_votacoes": 16,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 362,
+    "nome": "João Carlos Bacelar",
+    "partido": "PL",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.27,
+    "total_votacoes": 11,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 363,
+    "nome": "João Cury",
+    "partido": "MDB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 6,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 364,
+    "nome": "João Daniel",
+    "partido": "PT",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.47,
+    "total_votacoes": 19,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 365,
+    "nome": "João Leão",
+    "partido": "PP",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 14,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 366,
+    "nome": "João Maia",
+    "partido": "PP",
+    "uf": "RN",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.26,
+    "total_votacoes": 19,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 367,
+    "nome": "Juarez Costa",
+    "partido": "MDB",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.38,
+    "total_votacoes": 13,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 368,
+    "nome": "Julia Zanatta",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 17,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 369,
+    "nome": "Juliana Cardoso",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 370,
+    "nome": "Juliana Kolankiewicz",
+    "partido": "MDB",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 371,
+    "nome": "Julio Arcoverde",
+    "partido": "PP",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.56,
+    "total_votacoes": 18,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 372,
+    "nome": "Julio Cesar Ribeiro",
+    "partido": "REPUBLICANOS",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.33,
+    "total_votacoes": 15,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 373,
+    "nome": "Julio Lopes",
+    "partido": "PP",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 374,
+    "nome": "Juninho do Pneu",
+    "partido": "UNIAO",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.71,
+    "total_votacoes": 21,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 375,
+    "nome": "Junio Amaral",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 17,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 376,
+    "nome": "Junior Lourenço",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.38,
+    "total_votacoes": 13,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 377,
+    "nome": "Juscelino Filho",
+    "partido": "UNIAO",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.44,
+    "total_votacoes": 9,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 378,
+    "nome": "Jussara Lima",
+    "partido": "PSD",
+    "uf": "PI",
+    "casa": "Senado Federal",
+    "nota": 8.89,
+    "total_votacoes": 9,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 379,
+    "nome": "Júlio Cesar",
+    "partido": "PSD",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.29,
+    "total_votacoes": 17,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 380,
+    "nome": "Júlio Oliveira",
+    "partido": "PP",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 381,
+    "nome": "Júnior Ferrari",
+    "partido": "PSD",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 382,
+    "nome": "Júnior Mano",
+    "partido": "PSB",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 14,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 383,
+    "nome": "Katia Dias",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 384,
+    "nome": "Keniston Braga",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.56,
+    "total_votacoes": 18,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 385,
+    "nome": "Kiko Celeguim",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.95,
+    "total_votacoes": 19,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 386,
+    "nome": "Kim Kataguiri",
+    "partido": "MISSAO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 387,
+    "nome": "Lafayette de Andrada",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.85,
+    "total_votacoes": 13,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 388,
+    "nome": "Laura Carneiro",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.1,
+    "total_votacoes": 21,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 389,
+    "nome": "Laércio Oliveira",
+    "partido": "PP",
+    "uf": "SE",
+    "casa": "Senado Federal",
+    "nota": 2.22,
+    "total_votacoes": 9,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 390,
+    "nome": "Lebrão",
+    "partido": "UNIAO",
+    "uf": "RO",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.62,
+    "total_votacoes": 13,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 391,
+    "nome": "Leila Barros",
+    "partido": "PDT",
+    "uf": "DF",
+    "casa": "Senado Federal",
+    "nota": 8.89,
+    "total_votacoes": 9,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 392,
+    "nome": "Lenir de Assis",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 8,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 393,
+    "nome": "Leo Prates",
+    "partido": "PDT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.06,
+    "total_votacoes": 17,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 394,
+    "nome": "Leonardo Gadelha",
+    "partido": "PODE",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 395,
+    "nome": "Leonardo Monteiro",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.41,
+    "total_votacoes": 17,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 396,
+    "nome": "Leur Lomanto Júnior",
+    "partido": "UNIAO",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 397,
+    "nome": "Leônidas Cristino",
+    "partido": "PDT",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.67,
+    "total_votacoes": 15,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 398,
+    "nome": "Lincoln Portela",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.45,
+    "total_votacoes": 22,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 399,
+    "nome": "Lindbergh Farias",
+    "partido": "PT",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 400,
+    "nome": "Loreny",
+    "partido": "SOLIDARIEDADE",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 401,
+    "nome": "Lucas Abrahao",
+    "partido": "REDE",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 402,
+    "nome": "Lucas Barreto",
+    "partido": "PSD",
+    "uf": "AP",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 403,
+    "nome": "Lucas Ramos",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.1,
+    "total_votacoes": 21,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 404,
+    "nome": "Lucas Redecker",
+    "partido": "PSDB",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 21,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 405,
+    "nome": "Luciano Alves",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.0,
+    "total_votacoes": 15,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 406,
+    "nome": "Luciano Amaral",
+    "partido": "PSD",
+    "uf": "AL",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 21,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 407,
+    "nome": "Luciano Azevedo",
+    "partido": "PSD",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.45,
+    "total_votacoes": 11,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 408,
+    "nome": "Luciano Bivar",
+    "partido": "UNIAO",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 8,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 409,
+    "nome": "Luciano Ducci",
+    "partido": "PSB",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.33,
+    "total_votacoes": 18,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 410,
+    "nome": "Luciano Galego",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 3,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 411,
+    "nome": "Luciano Vieira",
+    "partido": "PSDB",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.25,
+    "total_votacoes": 16,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 412,
+    "nome": "Lucio Mosquini",
+    "partido": "MDB",
+    "uf": "RO",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.29,
+    "total_votacoes": 14,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 413,
+    "nome": "Lucyana Genésio",
+    "partido": "PDT",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 414,
+    "nome": "Luis Carlos Gomes",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.45,
+    "total_votacoes": 22,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 415,
+    "nome": "Luis Carlos Heinze",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 7,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 416,
+    "nome": "Luis Tibé",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.33,
+    "total_votacoes": 12,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 417,
+    "nome": "Luisa Canziani",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.67,
+    "total_votacoes": 15,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 418,
+    "nome": "Luiz Antônio Corrêa",
+    "partido": "PP",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.56,
+    "total_votacoes": 9,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 419,
+    "nome": "Luiz Carlos Busato",
+    "partido": "UNIAO",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.56,
+    "total_votacoes": 18,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 420,
+    "nome": "Luiz Carlos Hauly",
+    "partido": "PODE",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.88,
+    "total_votacoes": 16,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 421,
+    "nome": "Luiz Carlos Motta",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.27,
+    "total_votacoes": 22,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 422,
+    "nome": "Luiz Couto",
+    "partido": "PT",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 423,
+    "nome": "Luiz Fernando Faria",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.79,
+    "total_votacoes": 19,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 424,
+    "nome": "Luiz Fernando Vampiro",
+    "partido": "MDB",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 425,
+    "nome": "Luiz Gastão",
+    "partido": "PSD",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.47,
+    "total_votacoes": 17,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 426,
+    "nome": "Luiz Lima",
+    "partido": "NOVO",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.91,
+    "total_votacoes": 22,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 427,
+    "nome": "Luiz Nishimori",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 428,
+    "nome": "Luiz Philippe de Orleans e Bragança",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 429,
+    "nome": "Luiza Erundina",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.41,
+    "total_votacoes": 17,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 430,
+    "nome": "Luizianne Lins",
+    "partido": "PT",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 431,
+    "nome": "Lula da Fonte",
+    "partido": "PP",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.88,
+    "total_votacoes": 17,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 432,
+    "nome": "Lázaro Botelho",
+    "partido": "PP",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.25,
+    "total_votacoes": 16,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 433,
+    "nome": "Léo Prates",
+    "partido": "PDT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 434,
+    "nome": "Lêda Borges",
+    "partido": "PSDB",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.38,
+    "total_votacoes": 16,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 435,
+    "nome": "Lídice da Mata",
+    "partido": "PSB",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 436,
+    "nome": "Magda Mofatto",
+    "partido": "PL",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.48,
+    "total_votacoes": 21,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 437,
+    "nome": "Magno Malta",
+    "partido": "PL",
+    "uf": "ES",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 8,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 438,
+    "nome": "Mara Gabrilli",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Senado Federal",
+    "nota": 7.5,
+    "total_votacoes": 8,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 439,
+    "nome": "Marangoni",
+    "partido": "UNIAO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.29,
+    "total_votacoes": 17,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 440,
+    "nome": "Marcel Van Hattem",
+    "partido": "NOVO",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 441,
+    "nome": "Marcel van Hattem",
+    "partido": "NOVO",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.95,
+    "total_votacoes": 21,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 442,
+    "nome": "Marcelo Castro",
+    "partido": "MDB",
+    "uf": "PI",
+    "casa": "Senado Federal",
+    "nota": 4.44,
+    "total_votacoes": 9,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 443,
+    "nome": "Marcelo Crivella",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.26,
+    "total_votacoes": 19,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 444,
+    "nome": "Marcelo Lima",
+    "partido": "PSB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.0,
+    "total_votacoes": 5,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 445,
+    "nome": "Marcelo Moraes",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 446,
+    "nome": "Marcelo Queiroz",
+    "partido": "PSDB",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.24,
+    "total_votacoes": 17,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 447,
+    "nome": "Marcelo Álvaro Antônio",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 448,
+    "nome": "Marcio Alvino",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 449,
+    "nome": "Marcio Bittar",
+    "partido": "PL",
+    "uf": "AC",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 450,
+    "nome": "Marco Bertaiolli",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 4,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 451,
+    "nome": "Marco Brasil",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.15,
+    "total_votacoes": 13,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 452,
+    "nome": "Marcon",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 453,
+    "nome": "Marcos Aurélio Sampaio",
+    "partido": "PSD",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 454,
+    "nome": "Marcos Pereira",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 455,
+    "nome": "Marcos Pollon",
+    "partido": "PL",
+    "uf": "MS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 456,
+    "nome": "Marcos Rogério",
+    "partido": "PL",
+    "uf": "RO",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 457,
+    "nome": "Marcos Soares",
+    "partido": "UNIAO",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.62,
+    "total_votacoes": 13,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 458,
+    "nome": "Marcos Tavares",
+    "partido": "PDT",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.22,
+    "total_votacoes": 18,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 459,
+    "nome": "Marcos do Val",
+    "partido": "PODEMOS",
+    "uf": "ES",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 7,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 460,
+    "nome": "Margareth Buzetti",
+    "partido": "PP",
+    "uf": "MT",
+    "casa": "Senado Federal",
+    "nota": 6.0,
+    "total_votacoes": 5,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 461,
+    "nome": "Maria Arraes",
+    "partido": "SOLIDARIEDADE",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 462,
+    "nome": "Maria Rosas",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.26,
+    "total_votacoes": 19,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 463,
+    "nome": "Maria do Rosário",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 464,
+    "nome": "Mariana Carvalho",
+    "partido": "REPUBLICANOS",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 3,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 465,
+    "nome": "Mario Frias",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 466,
+    "nome": "Marreca Filho",
+    "partido": "PRD",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.55,
+    "total_votacoes": 11,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 467,
+    "nome": "Marussa Boldrin",
+    "partido": "MDB",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.94,
+    "total_votacoes": 17,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 468,
+    "nome": "Marx Beltrão",
+    "partido": "PP",
+    "uf": "AL",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 469,
+    "nome": "Matheus Noronha",
+    "partido": "PL",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.5,
+    "total_votacoes": 16,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 470,
+    "nome": "Mauricio Marcon",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 471,
+    "nome": "Mauricio Neves",
+    "partido": "PP",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.38,
+    "total_votacoes": 16,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 472,
+    "nome": "Mauricio do Vôlei",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 473,
+    "nome": "Mauro Benevides Filho",
+    "partido": "PDT",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.89,
+    "total_votacoes": 19,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 474,
+    "nome": "Mauro Carvalho Junior",
+    "partido": "UNIAO",
+    "uf": "MT",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 475,
+    "nome": "Maurício Carvalho",
+    "partido": "UNIAO",
+    "uf": "RO",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.73,
+    "total_votacoes": 22,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 476,
+    "nome": "Max Lemos",
+    "partido": "PDT",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.14,
+    "total_votacoes": 21,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 477,
+    "nome": "Mecias de Jesus",
+    "partido": "REPUBLICANOS",
+    "uf": "RR",
+    "casa": "Senado Federal",
+    "nota": 1.11,
+    "total_votacoes": 9,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 478,
+    "nome": "Meire Serafim",
+    "partido": "UNIAO",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.14,
+    "total_votacoes": 21,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 479,
+    "nome": "Mendonça Filho",
+    "partido": "UNIAO",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.38,
+    "total_votacoes": 21,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 480,
+    "nome": "Merlong Solano",
+    "partido": "PT",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.05,
+    "total_votacoes": 21,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 481,
+    "nome": "Mersinho Lucena",
+    "partido": "PP",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.33,
+    "total_votacoes": 15,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 482,
+    "nome": "Messias Donato",
+    "partido": "REPUBLICANOS",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 483,
+    "nome": "Miguel Lombardi",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.59,
+    "total_votacoes": 17,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 484,
+    "nome": "Miguel Ângelo",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 17,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 485,
+    "nome": "Milton Vieira",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 486,
+    "nome": "Misael Varella",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.56,
+    "total_votacoes": 18,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 487,
+    "nome": "Missionária Michele Collins",
+    "partido": "PP",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 488,
+    "nome": "Missionário José Olimpio",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 4,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 489,
+    "nome": "Moses Rodrigues",
+    "partido": "UNIAO",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.62,
+    "total_votacoes": 16,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 490,
+    "nome": "Murillo Gouvea",
+    "partido": "UNIAO",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 491,
+    "nome": "Murilo Galdino",
+    "partido": "REPUBLICANOS",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.84,
+    "total_votacoes": 19,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 492,
+    "nome": "Márcio Biolchi",
+    "partido": "MDB",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.71,
+    "total_votacoes": 17,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 493,
+    "nome": "Márcio Correa",
+    "partido": "MDB",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 494,
+    "nome": "Márcio Honaiser",
+    "partido": "PDT",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 14,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 495,
+    "nome": "Márcio Jerry",
+    "partido": "PCdoB",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 496,
+    "nome": "Márcio Marinho",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.74,
+    "total_votacoes": 19,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 497,
+    "nome": "Mário Heringer",
+    "partido": "PDT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 12,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 498,
+    "nome": "Mário Negromonte Jr.",
+    "partido": "PP",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.11,
+    "total_votacoes": 18,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 499,
+    "nome": "Natália Bonavides",
+    "partido": "PT",
+    "uf": "RN",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 500,
+    "nome": "Naumi Amorim",
+    "partido": "PSD",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 501,
+    "nome": "Nelinho Freitas",
+    "partido": "MDB",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 502,
+    "nome": "Nelsinho Trad",
+    "partido": "PSD",
+    "uf": "MS",
+    "casa": "Senado Federal",
+    "nota": 3.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 503,
+    "nome": "Nelson Barbudo",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 8,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 504,
+    "nome": "Nely Aquino",
+    "partido": "PODE",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.79,
+    "total_votacoes": 19,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 505,
+    "nome": "Neto Carletto",
+    "partido": "AVANTE",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.71,
+    "total_votacoes": 21,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 506,
+    "nome": "Newton Bonin",
+    "partido": "UNIAO",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 507,
+    "nome": "Newton Cardoso Jr",
+    "partido": "MDB",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.08,
+    "total_votacoes": 13,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 508,
+    "nome": "Nicoletti",
+    "partido": "PL",
+    "uf": "RR",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 509,
+    "nome": "Nikolas Ferreira",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 510,
+    "nome": "Nilto Tatto",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.55,
+    "total_votacoes": 22,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 511,
+    "nome": "Nitinho",
+    "partido": "PSD",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.14,
+    "total_votacoes": 7,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 512,
+    "nome": "Odair Cunha",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.09,
+    "total_votacoes": 22,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 513,
+    "nome": "Olival Marques",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 15,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 514,
+    "nome": "Omar Aziz",
+    "partido": "PSD",
+    "uf": "AM",
+    "casa": "Senado Federal",
+    "nota": 5.56,
+    "total_votacoes": 9,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 515,
+    "nome": "Oriovisto Guimarães",
+    "partido": "PSDB",
+    "uf": "PR",
+    "casa": "Senado Federal",
+    "nota": 1.11,
+    "total_votacoes": 9,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 516,
+    "nome": "Orlando Silva",
+    "partido": "PCdoB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 517,
+    "nome": "Osmar Terra",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 518,
+    "nome": "Ossesio Silva",
+    "partido": "REPUBLICANOS",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.71,
+    "total_votacoes": 17,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 519,
+    "nome": "Otoni de Paula",
+    "partido": "MDB",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 520,
+    "nome": "Otto Alencar",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Senado Federal",
+    "nota": 7.78,
+    "total_votacoes": 9,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 521,
+    "nome": "Otto Alencar Filho",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.19,
+    "total_votacoes": 21,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 522,
+    "nome": "Padovani",
+    "partido": "UNIAO",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.76,
+    "total_votacoes": 17,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 523,
+    "nome": "Padre João",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 22
+  },
+  {
+    "id": 524,
+    "nome": "Pastor Claudio Mariano",
+    "partido": "UNIAO",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 6,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 525,
+    "nome": "Pastor Diniz",
+    "partido": "UNIAO",
+    "uf": "RR",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.58,
+    "total_votacoes": 19,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 526,
+    "nome": "Pastor Eurico",
+    "partido": "PL",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.48,
+    "total_votacoes": 21,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 527,
+    "nome": "Pastor Gil",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.88,
+    "total_votacoes": 16,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 528,
+    "nome": "Pastor Henrique Vieira",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 529,
+    "nome": "Pastor Sargento Isidório",
+    "partido": "AVANTE",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.55,
+    "total_votacoes": 22,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 530,
+    "nome": "Patrus Ananias",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 17,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 531,
+    "nome": "Pauderney Avelino",
+    "partido": "UNIAO",
+    "uf": "AM",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.62,
+    "total_votacoes": 13,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 532,
+    "nome": "Paulinho Freire",
+    "partido": "UNIAO",
+    "uf": "RN",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.55,
+    "total_votacoes": 11,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 533,
+    "nome": "Paulinho da Força",
+    "partido": "SOLIDARIEDADE",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 6,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 534,
+    "nome": "Paulo Abi-Ackel",
+    "partido": "PSDB",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.33,
+    "total_votacoes": 15,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 535,
+    "nome": "Paulo Alexandre Barbosa",
+    "partido": "PSDB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.24,
+    "total_votacoes": 21,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 536,
+    "nome": "Paulo Azi",
+    "partido": "UNIAO",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.79,
+    "total_votacoes": 19,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 537,
+    "nome": "Paulo Foletto",
+    "partido": "PSB",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 6,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 538,
+    "nome": "Paulo Folletto",
+    "partido": "PSB",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.0,
+    "total_votacoes": 10,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 539,
+    "nome": "Paulo Freire Costa",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 540,
+    "nome": "Paulo Guedes",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.09,
+    "total_votacoes": 22,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 541,
+    "nome": "Paulo Lemos",
+    "partido": "PSOL",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 4,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 542,
+    "nome": "Paulo Litro",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.74,
+    "total_votacoes": 19,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 543,
+    "nome": "Paulo Magalhães",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.24,
+    "total_votacoes": 21,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 544,
+    "nome": "Paulo Marinho Jr",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 3,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 545,
+    "nome": "Paulo Paim",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Senado Federal",
+    "nota": 10.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 546,
+    "nome": "Paulo Pimenta",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 8,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 547,
+    "nome": "Paulão",
+    "partido": "PT",
+    "uf": "AL",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.52,
+    "total_votacoes": 21,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 548,
+    "nome": "Pedro Aihara",
+    "partido": "PRD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.14,
+    "total_votacoes": 21,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 549,
+    "nome": "Pedro Campos",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.33,
+    "total_votacoes": 18,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 550,
+    "nome": "Pedro Jr",
+    "partido": "PL",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 551,
+    "nome": "Pedro Lucas Fernandes",
+    "partido": "UNIAO",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.29,
+    "total_votacoes": 17,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 552,
+    "nome": "Pedro Lupion",
+    "partido": "REPUBLICANOS",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 18,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 553,
+    "nome": "Pedro Paulo",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.33,
+    "total_votacoes": 15,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 554,
+    "nome": "Pedro Tourinho",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 555,
+    "nome": "Pedro Uczai",
+    "partido": "PT",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 556,
+    "nome": "Pedro Westphalen",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 557,
+    "nome": "Pezenti",
+    "partido": "MDB",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 558,
+    "nome": "Pinheirinho",
+    "partido": "PP",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.85,
+    "total_votacoes": 13,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 559,
+    "nome": "Plínio Valério",
+    "partido": "PSDB",
+    "uf": "AM",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 560,
+    "nome": "Pompeo de Mattos",
+    "partido": "PDT",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.06,
+    "total_votacoes": 17,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 561,
+    "nome": "Pr. Marco Feliciano",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 562,
+    "nome": "Priscila Costa",
+    "partido": "PL",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 2,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 563,
+    "nome": "Prof. Dorinha Seabra",
+    "partido": "UNIAO",
+    "uf": "TO",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 564,
+    "nome": "Prof. Paulo Fernando",
+    "partido": "REPUBLICANOS",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.86,
+    "total_votacoes": 7,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 565,
+    "nome": "Prof. Reginaldo Veras",
+    "partido": "PV",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.05,
+    "total_votacoes": 21,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 566,
+    "nome": "Professor Alcides",
+    "partido": "PL",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 567,
+    "nome": "Professora Dorinha Seabra",
+    "partido": "UNIAO",
+    "uf": "TO",
+    "casa": "Senado Federal",
+    "nota": 3.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 568,
+    "nome": "Professora Goreth",
+    "partido": "PDT",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.57,
+    "total_votacoes": 14,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 569,
+    "nome": "Professora Luciene Cavalcante",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.57,
+    "total_votacoes": 21,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 570,
+    "nome": "Professora Marcivania",
+    "partido": "PCdoB",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 5,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 571,
+    "nome": "Rafael Brito",
+    "partido": "MDB",
+    "uf": "AL",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.88,
+    "total_votacoes": 16,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 572,
+    "nome": "Rafael Fera",
+    "partido": "PODE",
+    "uf": "RO",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.0,
+    "total_votacoes": 5,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 573,
+    "nome": "Rafael Prudente",
+    "partido": "MDB",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.53,
+    "total_votacoes": 17,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 574,
+    "nome": "Rafael Simoes",
+    "partido": "UNIAO",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.29,
+    "total_votacoes": 21,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 575,
+    "nome": "Raimundo Costa",
+    "partido": "PODE",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.88,
+    "total_votacoes": 17,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 576,
+    "nome": "Raimundo Santos",
+    "partido": "PSD",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.64,
+    "total_votacoes": 22,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 577,
+    "nome": "Randolfe Rodrigues",
+    "partido": "PT",
+    "uf": "AP",
+    "casa": "Senado Federal",
+    "nota": 8.89,
+    "total_votacoes": 9,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 578,
+    "nome": "Raniery Paulino",
+    "partido": "REPUBLICANOS",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 3,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 579,
+    "nome": "Reginaldo Lopes",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 580,
+    "nome": "Reginete Bispo",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 11,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 581,
+    "nome": "Reimont",
+    "partido": "PT",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 582,
+    "nome": "Reinhold Stephanes",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.38,
+    "total_votacoes": 21,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 583,
+    "nome": "Renan Calheiros",
+    "partido": "MDB",
+    "uf": "AL",
+    "casa": "Senado Federal",
+    "nota": 5.0,
+    "total_votacoes": 6,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 584,
+    "nome": "Renan Ferreirinha",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 3,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 585,
+    "nome": "Renan Filho",
+    "partido": "MDB",
+    "uf": "AL",
+    "casa": "Senado Federal",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 586,
+    "nome": "Renata Abreu",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 16,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 587,
+    "nome": "Renilce Nicodemos",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 12,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 588,
+    "nome": "Renildo Calheiros",
+    "partido": "PCdoB",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 589,
+    "nome": "Ribamar Silva",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.5,
+    "total_votacoes": 8,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 590,
+    "nome": "Ricardo Abrão",
+    "partido": "UNIAO",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.55,
+    "total_votacoes": 11,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 591,
+    "nome": "Ricardo Ayres",
+    "partido": "REPUBLICANOS",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.36,
+    "total_votacoes": 22,
+    "votos_alinhados": 14
+  },
+  {
+    "id": 592,
+    "nome": "Ricardo Barros",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.75,
+    "total_votacoes": 8,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 593,
+    "nome": "Ricardo Galvão",
+    "partido": "REDE",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 594,
+    "nome": "Ricardo Guidi",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.71,
+    "total_votacoes": 14,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 595,
+    "nome": "Ricardo Maia",
+    "partido": "MDB",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.84,
+    "total_votacoes": 19,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 596,
+    "nome": "Ricardo Salles",
+    "partido": "NOVO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 597,
+    "nome": "Ricardo Silva",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.25,
+    "total_votacoes": 8,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 598,
+    "nome": "Roberta Roma",
+    "partido": "PL",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.53,
+    "total_votacoes": 19,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 599,
+    "nome": "Roberto Duarte",
+    "partido": "REPUBLICANOS",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.76,
+    "total_votacoes": 21,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 600,
+    "nome": "Roberto Monteiro Pai",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.95,
+    "total_votacoes": 21,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 601,
+    "nome": "Robinson Faria",
+    "partido": "PP",
+    "uf": "RN",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.45,
+    "total_votacoes": 22,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 602,
+    "nome": "Robério Monteiro",
+    "partido": "PDT",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.27,
+    "total_votacoes": 11,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 603,
+    "nome": "Rodolfo Nogueira",
+    "partido": "PL",
+    "uf": "MS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 604,
+    "nome": "Rodrigo Cunha",
+    "partido": "PODEMOS",
+    "uf": "AL",
+    "casa": "Senado Federal",
+    "nota": 5.0,
+    "total_votacoes": 6,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 605,
+    "nome": "Rodrigo Estacho",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 21,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 606,
+    "nome": "Rodrigo Gambale",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 607,
+    "nome": "Rodrigo Pacheco",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 7,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 608,
+    "nome": "Rodrigo Rollemberg",
+    "partido": "PSB",
+    "uf": "DF",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 5,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 609,
+    "nome": "Rodrigo Valadares",
+    "partido": "UNIAO",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.76,
+    "total_votacoes": 17,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 610,
+    "nome": "Rodrigo da Zaeli",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 611,
+    "nome": "Rodrigo de Castro",
+    "partido": "UNIAO",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.71,
+    "total_votacoes": 17,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 612,
+    "nome": "Rogéria Santos",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.24,
+    "total_votacoes": 21,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 613,
+    "nome": "Rogério Carvalho",
+    "partido": "PT",
+    "uf": "SE",
+    "casa": "Senado Federal",
+    "nota": 8.89,
+    "total_votacoes": 9,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 614,
+    "nome": "Rogério Correia",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 615,
+    "nome": "Rogério Marinho",
+    "partido": "PL",
+    "uf": "RN",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 616,
+    "nome": "Romero Rodrigues",
+    "partido": "PODE",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 617,
+    "nome": "Romário",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Senado Federal",
+    "nota": 2.22,
+    "total_votacoes": 9,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 618,
+    "nome": "Ronaldo Nogueira",
+    "partido": "REPUBLICANOS",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.71,
+    "total_votacoes": 14,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 619,
+    "nome": "Rosana Valle",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.43,
+    "total_votacoes": 21,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 620,
+    "nome": "Rosangela Moro",
+    "partido": "UNIAO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.82,
+    "total_votacoes": 11,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 621,
+    "nome": "Roseana Sarney",
+    "partido": "MDB",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 6,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 622,
+    "nome": "Rosângela Moro",
+    "partido": "UNIAO",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.25,
+    "total_votacoes": 8,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 623,
+    "nome": "Rosângela Reis",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.64,
+    "total_votacoes": 22,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 624,
+    "nome": "Rubens Otoni",
+    "partido": "PT",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 625,
+    "nome": "Rubens Pereira Júnior",
+    "partido": "PT",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 626,
+    "nome": "Rui Falcão",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 20
+  },
+  {
+    "id": 627,
+    "nome": "Ruy Carneiro",
+    "partido": "PODE",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.33,
+    "total_votacoes": 18,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 628,
+    "nome": "Samuel Santos",
+    "partido": "PODE",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.0,
+    "total_votacoes": 5,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 629,
+    "nome": "Samuel Viana",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.24,
+    "total_votacoes": 21,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 630,
+    "nome": "Sanderson",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 631,
+    "nome": "Sargento Fahur",
+    "partido": "PL",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 632,
+    "nome": "Sargento Gonçalves",
+    "partido": "PL",
+    "uf": "RN",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 633,
+    "nome": "Sargento Portugal",
+    "partido": "PODE",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 20,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 634,
+    "nome": "Saullo Vianna",
+    "partido": "MDB",
+    "uf": "AM",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.45,
+    "total_votacoes": 11,
+    "votos_alinhados": 6
+  },
+  {
+    "id": 635,
+    "nome": "Saulo Pedroso",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.0,
+    "total_votacoes": 15,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 636,
+    "nome": "Sergio Moro",
+    "partido": "UNIAO",
+    "uf": "PR",
+    "casa": "Senado Federal",
+    "nota": 1.11,
+    "total_votacoes": 9,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 637,
+    "nome": "Sergio Santos Rodrigues",
+    "partido": "PODE",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 638,
+    "nome": "Sergio Souza",
+    "partido": "MDB",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 639,
+    "nome": "Sidney Leite",
+    "partido": "PSD",
+    "uf": "AM",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 640,
+    "nome": "Silas Câmara",
+    "partido": "REPUBLICANOS",
+    "uf": "AM",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 641,
+    "nome": "Silvia Cristina",
+    "partido": "PP",
+    "uf": "RO",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.48,
+    "total_votacoes": 21,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 642,
+    "nome": "Silvia Waiãpi",
+    "partido": "PL",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 15,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 643,
+    "nome": "Silvio Antonio",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 4,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 644,
+    "nome": "Silvio Costa Filho",
+    "partido": "REPUBLICANOS",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 4,
+    "votos_alinhados": 4
+  },
+  {
+    "id": 645,
+    "nome": "Silvye Alves",
+    "partido": "UNIAO",
+    "uf": "GO",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 646,
+    "nome": "Simone Marquetto",
+    "partido": "MDB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 647,
+    "nome": "Socorro Neri",
+    "partido": "PP",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 9.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 648,
+    "nome": "Sonize Barbosa",
+    "partido": "PL",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.0,
+    "total_votacoes": 10,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 649,
+    "nome": "Soraya Santos",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.11,
+    "total_votacoes": 18,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 650,
+    "nome": "Soraya Thronicke",
+    "partido": "PODEMOS",
+    "uf": "MS",
+    "casa": "Senado Federal",
+    "nota": 1.43,
+    "total_votacoes": 7,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 651,
+    "nome": "Stefano Aguiar",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.12,
+    "total_votacoes": 16,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 652,
+    "nome": "Styvenson Valentim",
+    "partido": "PSDB",
+    "uf": "RN",
+    "casa": "Senado Federal",
+    "nota": 2.22,
+    "total_votacoes": 9,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 653,
+    "nome": "Sâmia Bomfim",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.89,
+    "total_votacoes": 19,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 654,
+    "nome": "Sérgio Petecão",
+    "partido": "PSD",
+    "uf": "AC",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 655,
+    "nome": "Sóstenes Cavalcante",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.14,
+    "total_votacoes": 14,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 656,
+    "nome": "Tabata Amaral",
+    "partido": "PSB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 22
+  },
+  {
+    "id": 657,
+    "nome": "Tadeu Oliveira",
+    "partido": "PL",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 658,
+    "nome": "Tadeu Veneri",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 21
+  },
+  {
+    "id": 659,
+    "nome": "Talíria Petrone",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.89,
+    "total_votacoes": 18,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 660,
+    "nome": "Tarcísio Motta",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.64,
+    "total_votacoes": 22,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 661,
+    "nome": "Teresa Leitão",
+    "partido": "PT",
+    "uf": "PE",
+    "casa": "Senado Federal",
+    "nota": 7.78,
+    "total_votacoes": 9,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 662,
+    "nome": "Tereza Cristina",
+    "partido": "PP",
+    "uf": "MS",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 663,
+    "nome": "Thiago Flores",
+    "partido": "REPUBLICANOS",
+    "uf": "RO",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.11,
+    "total_votacoes": 18,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 664,
+    "nome": "Thiago de Joaldo",
+    "partido": "PP",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.43,
+    "total_votacoes": 14,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 665,
+    "nome": "Tiago Dimas",
+    "partido": "PODE",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.0,
+    "total_votacoes": 5,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 666,
+    "nome": "Tiririca",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.32,
+    "total_votacoes": 19,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 667,
+    "nome": "Tião Medeiros",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.74,
+    "total_votacoes": 19,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 668,
+    "nome": "Toninho Wandscheer",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.24,
+    "total_votacoes": 21,
+    "votos_alinhados": 11
+  },
+  {
+    "id": 669,
+    "nome": "Túlio Gadêlha",
+    "partido": "REDE",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.42,
+    "total_votacoes": 19,
+    "votos_alinhados": 16
+  },
+  {
+    "id": 670,
+    "nome": "Ulisses Guimarães",
+    "partido": "MDB",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 3.33,
+    "total_votacoes": 3,
+    "votos_alinhados": 1
+  },
+  {
+    "id": 671,
+    "nome": "Valmir Assunção",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 672,
+    "nome": "Vander Loubet",
+    "partido": "PT",
+    "uf": "MS",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 19,
+    "votos_alinhados": 19
+  },
+  {
+    "id": 673,
+    "nome": "Vanderlan Cardoso",
+    "partido": "PSD",
+    "uf": "GO",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 674,
+    "nome": "Veneziano Vital do Rêgo",
+    "partido": "MDB",
+    "uf": "PB",
+    "casa": "Senado Federal",
+    "nota": 4.29,
+    "total_votacoes": 7,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 675,
+    "nome": "Vermelho",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.94,
+    "total_votacoes": 17,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 676,
+    "nome": "Vicentinho",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 22,
+    "votos_alinhados": 22
+  },
+  {
+    "id": 677,
+    "nome": "Vicentinho Júnior",
+    "partido": "PSDB",
+    "uf": "TO",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 678,
+    "nome": "Vinicius Carvalho",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.17,
+    "total_votacoes": 12,
+    "votos_alinhados": 5
+  },
+  {
+    "id": 679,
+    "nome": "Vinicius Gurgel",
+    "partido": "PL",
+    "uf": "AP",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.12,
+    "total_votacoes": 17,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 680,
+    "nome": "Vitor Lippi",
+    "partido": "PSDB",
+    "uf": "SP",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.71,
+    "total_votacoes": 17,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 681,
+    "nome": "Waldemar Oliveira",
+    "partido": "AVANTE",
+    "uf": "PE",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.19,
+    "total_votacoes": 21,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 682,
+    "nome": "Waldenor Pereira",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 683,
+    "nome": "Washington Quaquá",
+    "partido": "PT",
+    "uf": "RJ",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 9
+  },
+  {
+    "id": 684,
+    "nome": "Weliton Prado",
+    "partido": "SOLIDARIEDADE",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 8.82,
+    "total_votacoes": 17,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 685,
+    "nome": "Wellington Fagundes",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 8,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 686,
+    "nome": "Wellington Roberto",
+    "partido": "PL",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 1.25,
+    "total_votacoes": 16,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 687,
+    "nome": "Welter",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 18,
+    "votos_alinhados": 18
+  },
+  {
+    "id": 688,
+    "nome": "Weverton",
+    "partido": "PDT",
+    "uf": "MA",
+    "casa": "Senado Federal",
+    "nota": 3.33,
+    "total_votacoes": 9,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 689,
+    "nome": "Wilder Morais",
+    "partido": "PL",
+    "uf": "GO",
+    "casa": "Senado Federal",
+    "nota": 0.0,
+    "total_votacoes": 9,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 690,
+    "nome": "Wilson Santiago",
+    "partido": "REPUBLICANOS",
+    "uf": "PB",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.38,
+    "total_votacoes": 13,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 691,
+    "nome": "Wolmer Araújo",
+    "partido": "SOLIDARIEDADE",
+    "uf": "MA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 3,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 692,
+    "nome": "Yandra Moura",
+    "partido": "UNIAO",
+    "uf": "SE",
+    "casa": "Câmara dos Deputados",
+    "nota": 7.14,
+    "total_votacoes": 14,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 693,
+    "nome": "Yury do Paredão",
+    "partido": "MDB",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 4.67,
+    "total_votacoes": 15,
+    "votos_alinhados": 7
+  },
+  {
+    "id": 694,
+    "nome": "Zeca Dirceu",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 17,
+    "votos_alinhados": 17
+  },
+  {
+    "id": 695,
+    "nome": "Zenaide Maia",
+    "partido": "PSD",
+    "uf": "RN",
+    "casa": "Senado Federal",
+    "nota": 8.89,
+    "total_votacoes": 9,
+    "votos_alinhados": 8
+  },
+  {
+    "id": 696,
+    "nome": "Zequinha Marinho",
+    "partido": "PODEMOS",
+    "uf": "PA",
+    "casa": "Senado Federal",
+    "nota": 2.22,
+    "total_votacoes": 9,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 697,
+    "nome": "Zezinho Barbary",
+    "partido": "PP",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.5,
+    "total_votacoes": 20,
+    "votos_alinhados": 13
+  },
+  {
+    "id": 698,
+    "nome": "Zucco",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 699,
+    "nome": "Zé Adriano",
+    "partido": "PP",
+    "uf": "AC",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.5,
+    "total_votacoes": 8,
+    "votos_alinhados": 2
+  },
+  {
+    "id": 700,
+    "nome": "Zé Haroldo Cathedral",
+    "partido": "PSD",
+    "uf": "RR",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.67,
+    "total_votacoes": 18,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 701,
+    "nome": "Zé Neto",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Câmara dos Deputados",
+    "nota": 10.0,
+    "total_votacoes": 15,
+    "votos_alinhados": 15
+  },
+  {
+    "id": 702,
+    "nome": "Zé Silva",
+    "partido": "SOLIDARIEDADE",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.25,
+    "total_votacoes": 16,
+    "votos_alinhados": 10
+  },
+  {
+    "id": 703,
+    "nome": "Zé Trovão",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 21,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 704,
+    "nome": "Zé Vitor",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Câmara dos Deputados",
+    "nota": 2.31,
+    "total_votacoes": 13,
+    "votos_alinhados": 3
+  },
+  {
+    "id": 705,
+    "nome": "aj Albuquerque",
+    "partido": "PP",
+    "uf": "CE",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 706,
+    "nome": "da Vitoria",
+    "partido": "PP",
+    "uf": "ES",
+    "casa": "Câmara dos Deputados",
+    "nota": 0.0,
+    "total_votacoes": 1,
+    "votos_alinhados": 0
+  },
+  {
+    "id": 707,
+    "nome": "Átila Lins",
+    "partido": "PSD",
+    "uf": "AM",
+    "casa": "Câmara dos Deputados",
+    "nota": 6.32,
+    "total_votacoes": 19,
+    "votos_alinhados": 12
+  },
+  {
+    "id": 708,
+    "nome": "Átila Lira",
+    "partido": "PP",
+    "uf": "PI",
+    "casa": "Câmara dos Deputados",
+    "nota": 5.26,
+    "total_votacoes": 19,
+    "votos_alinhados": 10
+  }
+]

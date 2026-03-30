@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quem Foi Quem no Congresso</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topo">
+    <div class="container">
+      <nav class="nav-site">
+        <a href="index.html" class="nav-brand nav-brand-com-logo">
+          <img src="assets/logo-diap.png" alt="DIAP" class="nav-logo" />
+          <span>Quem Foi Quem no Congresso</span>
+        </a>
+
+        <div class="nav-links">
+          <a href="index.html" class="ativo">Parlamentares</a>
+          <a href="partidos.html">Partidos</a>
+          <a href="votacoes.html">Votações</a>
+          <a href="criterios.html">Critérios</a>
+        </div>
+      </nav>
+
+      <div class="topo-conteudo topo-home">
+        <div class="hero-home">
+          <div class="hero-home-texto">
+            <span class="selo-home">Monitoramento parlamentar</span>
+            <h1>Quem Foi Quem no Congresso</h1>
+            <p class="subtitulo">
+              Plataforma para acompanhar como deputados e senadores votaram em matérias selecionadas de interesse dos trabalhadores e da sociedade.
+            </p>
+
+            <div class="hero-acoes">
+              <a href="votacoes.html" class="btn-principal">Explorar votações</a>
+              <a href="partidos.html" class="btn-secundario">Ver partidos</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="intro-home card">
+      <div class="intro-home-grid">
+        <div>
+          <h2>Como navegar</h2>
+          <p>
+            Consulte parlamentares, explore as votações acompanhadas, compare partidos e entenda a metodologia usada para selecionar as matérias analisadas.
+          </p>
+          <p>
+            O objetivo da plataforma é facilitar a leitura do comportamento parlamentar em votações consideradas relevantes, com transparência metodológica e navegação simples.
+          </p>
+        </div>
+
+        <div class="atalhos-home">
+          <a href="partidos.html" class="atalho-card">
+            <strong>Partidos</strong>
+            <span>Veja a média de apoio de cada partido aos trabalhadores e compare o comportamento partidário nas votações.</span>
+          </a>
+
+          <a href="votacoes.html" class="atalho-card">
+            <strong>Hub de votações</strong>
+            <span>Veja todas as matérias e abra a ficha detalhada de cada uma.</span>
+          </a>
+
+          <a href="criterios.html" class="atalho-card">
+            <strong>Critérios</strong>
+            <span>Entenda por que essas votações entraram na base e como interpretar os resultados.</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="resumoTopo" class="resumo-topo-grid"></section>
+
+    <section class="home-filtros-mapa">
+      <div class="card painel-mapa">
+        <div class="painel-mapa-topo">
+          <div>
+            <h2>Filtrar por estado</h2>
+            <p class="texto-suave">
+              Clique em um estado no mapa para filtrar os parlamentares daquela UF.
+            </p>
+          </div>
+
+          <button id="limparUfMapa" class="btn-filtro btn-limpar-mapa" type="button">
+            Limpar estado
+          </button>
+        </div>
+
+        <div class="mapa-wrapper">
+          <div class="mapa-fake-wrap">
+            <div class="mapa-fake" id="mapaBrasilFake" aria-label="Mapa do Brasil por estados">
+              <button class="uf-btn pos-ac" data-uf="AC" type="button">AC</button>
+              <button class="uf-btn pos-am" data-uf="AM" type="button">AM</button>
+              <button class="uf-btn pos-rr" data-uf="RR" type="button">RR</button>
+              <button class="uf-btn pos-ap" data-uf="AP" type="button">AP</button>
+              <button class="uf-btn pos-pa" data-uf="PA" type="button">PA</button>
+              <button class="uf-btn pos-ro" data-uf="RO" type="button">RO</button>
+              <button class="uf-btn pos-to" data-uf="TO" type="button">TO</button>
+              <button class="uf-btn pos-ma" data-uf="MA" type="button">MA</button>
+              <button class="uf-btn pos-pi" data-uf="PI" type="button">PI</button>
+              <button class="uf-btn pos-ce" data-uf="CE" type="button">CE</button>
+              <button class="uf-btn pos-rn" data-uf="RN" type="button">RN</button>
+              <button class="uf-btn pos-pb" data-uf="PB" type="button">PB</button>
+              <button class="uf-btn pos-pe" data-uf="PE" type="button">PE</button>
+              <button class="uf-btn pos-al" data-uf="AL" type="button">AL</button>
+              <button class="uf-btn pos-se" data-uf="SE" type="button">SE</button>
+              <button class="uf-btn pos-ba" data-uf="BA" type="button">BA</button>
+              <button class="uf-btn pos-mt" data-uf="MT" type="button">MT</button>
+              <button class="uf-btn pos-ms" data-uf="MS" type="button">MS</button>
+              <button class="uf-btn pos-go" data-uf="GO" type="button">GO</button>
+              <button class="uf-btn pos-df" data-uf="DF" type="button">DF</button>
+              <button class="uf-btn pos-mg" data-uf="MG" type="button">MG</button>
+              <button class="uf-btn pos-es" data-uf="ES" type="button">ES</button>
+              <button class="uf-btn pos-rj" data-uf="RJ" type="button">RJ</button>
+              <button class="uf-btn pos-sp" data-uf="SP" type="button">SP</button>
+              <button class="uf-btn pos-pr" data-uf="PR" type="button">PR</button>
+              <button class="uf-btn pos-sc" data-uf="SC" type="button">SC</button>
+              <button class="uf-btn pos-rs" data-uf="RS" type="button">RS</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="estado-selecionado-box">
+          <span class="rotulo">Estado selecionado</span>
+          <strong id="ufSelecionadaTexto">Todos os estados</strong>
+        </div>
+      </div>
+
+      <div class="card painel-filtros-home">
+        <h2>Filtrar parlamentares</h2>
+
+        <div class="filtros filtros-home-novos">
+          <input type="text" id="buscaNome" placeholder="Buscar por nome..." />
+
+          <select id="filtroCargo">
+            <option value="">Todos os cargos</option>
+          </select>
+
+          <select id="filtroPartido">
+            <option value="">Todos os partidos</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div id="resultadoInfo" class="resultado-info"></div>
+      <div id="listaParlamentares" class="grid-cards"></div>
+    </section>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

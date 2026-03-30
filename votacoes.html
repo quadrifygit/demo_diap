@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Votações | Quem Foi Quem no Congresso</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topo">
+    <div class="container">
+      <nav class="nav-site">
+        <a href="index.html" class="nav-brand">Quem Foi Quem no Congresso</a>
+        <div class="nav-links">
+          <a href="index.html">Parlamentares</a>
+          <a href="partidos.html">Partidos</a>
+          <a href="votacoes.html" class="ativo">Votações</a>
+          <a href="criterios.html">Critérios</a>
+        </div>
+      </nav>
+
+      <div class="topo-conteudo">
+        <h1>Hub de votações</h1>
+        <p class="subtitulo">
+          Acompanhe as matérias selecionadas, explore o grau de alinhamento em cada uma e abra a ficha detalhada de cada votação.
+        </p>
+      </div>
+    </div>
+  </header>
+
+  <main class="container pagina-votacoes">
+    <section class="intro-hub card">
+      <div class="intro-hub-texto">
+        <h2>Como ler esta página</h2>
+        <p>
+          Aqui estão reunidas as votações selecionadas para acompanhar o comportamento parlamentar em temas de interesse dos trabalhadores e da sociedade.
+        </p>
+        <p>
+          As matérias foram organizadas em um hub único para facilitar a navegação, a comparação entre votações e o acesso à ficha detalhada de cada tema.
+        </p>
+        <p>
+          A seleção foi feita com base em critérios metodológicos específicos. Você pode entender a lógica completa na página de
+          <a href="criterios.html" class="link-inline"><strong>Critérios</strong></a>.
+        </p>
+      </div>
+    </section>
+
+    <section id="resumoTemas" class="resumo-topo-grid"></section>
+    <section id="resumoVotacoes" class="resumo-topo-grid"></section>
+
+    <section class="filtros filtros-votacoes-grid filtros-votacoes-5">
+      <input type="text" id="buscaVotacao" placeholder="Buscar por nome da votação..." />
+
+      <select id="filtroCasa">
+        <option value="">Todas as casas</option>
+      </select>
+
+      <select id="filtroTema">
+        <option value="">Todos os temas</option>
+      </select>
+
+      <select id="filtroPosicao">
+        <option value="">Todas as posições</option>
+        <option value="Sim">Posição de referência: Sim</option>
+        <option value="Não">Posição de referência: Não</option>
+      </select>
+
+      <select id="filtroOrdenacao">
+        <option value="nome">Ordem alfabética</option>
+        <option value="mais_alinhados">Mais alinhados</option>
+        <option value="menos_alinhados">Menos alinhados</option>
+        <option value="mais_divididos">Mais divididos</option>
+      </select>
+    </section>
+
+    <section>
+      <div id="resultadoInfo" class="resultado-info"></div>
+      <div id="listaVotacoes" class="lista-votacoes"></div>
+    </section>
+  </main>
+
+  <script src="js/votacoes.js"></script>
+</body>
+</html>

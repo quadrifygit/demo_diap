@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Partidos | Quem Foi Quem no Congresso</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topo">
+    <div class="container">
+      <nav class="nav-site">
+        <a href="index.html" class="nav-brand">Quem Foi Quem no Congresso</a>
+        <div class="nav-links">
+          <a href="index.html">Parlamentares</a>
+          <a href="partidos.html" class="ativo">Partidos</a>
+          <a href="votacoes.html">Votações</a>
+          <a href="criterios.html">Critérios</a>
+        </div>
+      </nav>
+
+      <div class="topo-conteudo">
+        <h1>Partidos</h1>
+        <p class="subtitulo">
+          Compare o percentual médio de apoio de cada partido aos trabalhadores nas votações acompanhadas.
+        </p>
+      </div>
+    </div>
+  </header>
+
+  <main class="container pagina-partidos">
+    <section class="intro-hub card">
+      <div class="intro-hub-texto">
+        <h2>Como ler esta página</h2>
+        <p>
+          Cada partido recebe um percentual médio calculado em dois passos: primeiro, medimos em cada votação quantos parlamentares daquele partido ficaram alinhados com a posição de referência; depois, fazemos a média desses percentuais ao longo das votações em que o partido esteve presente.
+        </p>
+        <p>
+          Isso evita que uma votação com mais parlamentares presentes pese mais do que as demais e ajuda a mostrar o comportamento partidário de forma mais equilibrada.
+        </p>
+      </div>
+    </section>
+
+    <section id="resumoPartidos" class="resumo-topo-grid"></section>
+
+    <section class="card">
+      <div class="filtros filtros-partidos-grid">
+        <input type="text" id="buscaPartido" placeholder="Buscar por sigla do partido..." />
+
+        <select id="filtroOrdenacaoPartidos">
+          <option value="apoio_desc">Maior apoio primeiro</option>
+          <option value="apoio_asc">Menor apoio primeiro</option>
+          <option value="nome">Ordem alfabética</option>
+          <option value="parlamentares_desc">Mais parlamentares</option>
+        </select>
+      </div>
+    </section>
+
+    <section>
+      <div id="resultadoInfoPartidos" class="resultado-info"></div>
+      <div id="listaPartidos" class="grid-cards"></div>
+    </section>
+  </main>
+
+  <script src="js/partidos.js"></script>
+</body>
+</html>

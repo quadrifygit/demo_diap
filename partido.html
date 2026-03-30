@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Partido | Quem Foi Quem no Congresso</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topo">
+    <div class="container">
+      <nav class="nav-site">
+        <a href="index.html" class="nav-brand">Quem Foi Quem no Congresso</a>
+        <div class="nav-links">
+          <a href="index.html">Parlamentares</a>
+          <a href="partidos.html" class="ativo">Partidos</a>
+          <a href="votacoes.html">Votações</a>
+          <a href="criterios.html">Critérios</a>
+        </div>
+      </nav>
+
+      <div class="topo-conteudo">
+        <a href="partidos.html" class="voltar-link">← Voltar para partidos</a>
+        <h1 class="topo-titulo-interno">Perfil do partido</h1>
+        <p class="subtitulo">
+          Veja a média de apoio do partido, seus parlamentares e o desempenho nas votações acompanhadas.
+        </p>
+      </div>
+    </div>
+  </header>
+
+  <main class="container pagina-partido">
+    <section id="partidoBox"></section>
+
+    <section class="secao-votos">
+      <div class="secao-votos-topo">
+        <div>
+          <h2>Parlamentares do partido</h2>
+          <p class="secao-explicacao">
+            Lista dos parlamentares presentes na base, ordenados por nota.
+          </p>
+        </div>
+      </div>
+
+      <div id="listaParlamentaresPartido" class="lista-votos"></div>
+    </section>
+
+    <section class="secao-votos">
+      <div class="secao-votos-topo">
+        <div>
+          <h2>Desempenho nas votações</h2>
+          <p class="secao-explicacao">
+            Percentual do partido alinhado com a posição de referência em cada votação.
+          </p>
+        </div>
+
+        <div class="filtros-votos">
+          <input
+            type="text"
+            id="buscaVotacaoPartido"
+            placeholder="Buscar votação..."
+            class="input-busca-votacao"
+          />
+
+          <select id="ordenacaoVotacoesPartido" class="input-busca-votacao">
+            <option value="apoio_desc">Maior apoio primeiro</option>
+            <option value="apoio_asc">Menor apoio primeiro</option>
+            <option value="nome">Ordem alfabética</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="resumoListaVotacoesPartido" class="resultado-info"></div>
+      <div id="listaVotacoesPartido" class="lista-votos"></div>
+    </section>
+  </main>
+
+  <script src="js/partido.js"></script>
+</body>
+</html>
